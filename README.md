@@ -19,7 +19,7 @@
 
 <h3 align="left">⭐  Web Development Side </h3>
 
-| C | C++ | JS |
+| Html5 | Css3 | JS |
 |-----------|-----------|-----------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> |
 
