@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkumarsingh-01&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkumarsingh-01" /> </p>
 
-- 🌱 I’m currently learning **- DSA Using C++ ,**
+- 🌱 Learning **- DSA Using C++ ,**
 
 - 👨‍ I’m currently pursuing **- MCA  ,**
 
