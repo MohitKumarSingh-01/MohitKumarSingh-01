@@ -14,6 +14,7 @@
 | C | C++ | Java | JS |
 |-----------|-----------|-----------|-----------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Android" width="40" height="40"/> |
 
 <h3 align="left">⭐  Web Development Side </h3>
 
